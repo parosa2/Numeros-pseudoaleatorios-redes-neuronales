@@ -1,1 +1,1 @@
-# Pseudorandom-Numbers-and-Neuronal-Networks
+# Número pseudoaleatorios y redes neuronales
